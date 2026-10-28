@@ -388,7 +388,7 @@ li{
     position: relative;
     width: 30%;
     float: left;
-    padding: 20px 20px 20px 60px;
+    padding: 20px 19px 20px 60px;
     margin-bottom: 50px;
     border: 1px solid #6699ff;
     background-color: white;
@@ -653,7 +653,7 @@ li{
 .team .team-card .team-img{
     position: relative;
     width: 80%;
-    height: 280px;
+    height: auto;
     border-radius: 10px;
     margin: 30px auto 0 auto;
 }
